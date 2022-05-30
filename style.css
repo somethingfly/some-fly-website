@@ -1,0 +1,10 @@
+body {
+    background: lavender;
+  }
+
+h1 {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: darkblue;
+}
